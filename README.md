@@ -35,7 +35,7 @@ Currently, I’m studying data science and working on projects in **Python, mach
 
 ## 📫 Connect With Me
 - 📍 **Location:** Upplands Väsby, Sweden  
-- ✉️ **Email:** fardinbinhasan@example.com  
+- ✉️ **Email:** fardinbinhasan@gmail.com  
 
 ---
 
